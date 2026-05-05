@@ -1,0 +1,5 @@
+Scenario,FL+Adaptive,No Adapt,Gap
+Normal Conditions,0.8231,0.5928,0.2303
+Heavy Drift,0.8243,0.5576,0.2667
+50% Node Failure,0.8224,0.5776,0.2448
+30% Packet Loss,0.823,0.5886,0.2345

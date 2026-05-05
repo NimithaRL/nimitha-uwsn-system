@@ -1,0 +1,6 @@
+Experiment,Description,Mean Acc,Std
+full,FL+Twin+CL+Adapt,0.8227,0.0106
+no_adapt,No adaptation,0.5926,0.1922
+no_fl,No FL,0.5672,0.1987
+no_twin,Delayed twin,0.8127,0.0158
+no_cl,Tiny CL batch,0.7415,0.0558

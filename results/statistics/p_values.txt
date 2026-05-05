@@ -1,0 +1,5 @@
+Statistical Significance
+Full vs No Adapt | t=+11.8931 | p=0.000000 | ✅ SIGNIFICANT
+Full vs No FL | t=+12.7789 | p=0.000000 | ✅ SIGNIFICANT
+Full vs No Twin | t=+5.2158 | p=0.000000 | ✅ SIGNIFICANT
+Full vs No CL | t=+14.2434 | p=0.000000 | ✅ SIGNIFICANT
