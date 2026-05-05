@@ -1,0 +1,8 @@
+num_nodes: 5
+rounds: 20
+seed: 42
+drift_round: 8
+attack_round: 13
+threshold: 0.05
+partial_data_size: 60
+adaptation_data_size: 200
